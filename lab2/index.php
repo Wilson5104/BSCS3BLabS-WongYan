@@ -14,7 +14,12 @@ $header = "Home";
             <p>when I was a kid I went to "Jack and Jill" in Victorias near the Lady of Victory parish church.</p>
             <br>
             <img src="Jack_and_Jill.png" alt="Jack_and_Jill">
+<<<<<<< HEAD
             <br><br>
+=======
+            <br>
+            <br>
+>>>>>>> lab2
             <a href="page2.php">High School</a> | 
             <a href="page3.php">Currently</a>
             </body>
