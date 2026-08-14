@@ -12,7 +12,7 @@ $header = "High School";
             -<br>
             <p>Though at first I was hesitant, I eventually adapted to the new environment. And had many great memories there.</p>
             <br>
-            <img src="St_Ana.png" alt="St_Ana">
+            <img src="St._Ana.png" alt="St_Ana">
             <br>
             <br>
             <a href="index.php">Home</a> | 
