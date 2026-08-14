@@ -15,6 +15,10 @@ $header = "High School";
             <img src="St_Anna.png" alt="St_Anna">
             <br><br>
             <a href="index.php">Home</a> | 
+<<<<<<< HEAD
             <a href="page3.php">Currently</a>
+=======
+            <a href="page3.php">Contact</a>
+>>>>>>> 2b47aaf1737dc4409d9a929c3e43e810db0fd738
             </body>
 </html>
